@@ -10,7 +10,16 @@ According to the faculty of ICT GitHub guide [2024] “git helps you keep your w
 GitHub is a web-based hosting service for version control repositories. In other words, GitHub is a website that hosts your repositories online the advantage of GitHub is that you can keep you work there and can access it whenever you want even if it’s not your computer. You can always customize your profile onsite, and it is very useful when having group works or applying for jobs.
 As I was creating and designing my app, I did encounter some problems I first had problems linking up my main activities but then that got fixed. On my app there only one button work which is the “Eat” button where as the clean and fun don’t work. I tried adding toasts and comments as a way of scoring marks, but overall I really wished it worked cause I tried putting up the brightest images to make it attractive.
  
- The above picture repesents an eating dog This image represents the Fun/play button This represents the clean button  This image is the unhealthy dog This is the front welcome image
+ ![Chibi eating dog](https://github.com/Thalente1/Tamagotchi-app/assets/160724260/56cb9882-e532-4170-9faa-0f85dcab89da)
+The above picture repesents an eating dog 
+![Chibi playing with friend dog](https://github.com/Thalente1/Tamagotchi-app/assets/160724260/f3158c1d-6786-4e12-94d5-6267fc451faf)
+This image represents the Fun/play button
+![Chibi hungry dog](https://github.com/Thalente1/Tamagotchi-app/assets/160724260/7f8a1d18-45cc-40aa-b426-006fabe13aa2)
+This represents the clean button 
+![Chibi sleeping dog](https://github.com/Thalente1/Tamagotchi-app/assets/160724260/626de463-a0e6-4aa2-bf24-632519f209b8)
+This image is the unhealthy dog
+![Chibi awake dog](https://github.com/Thalente1/Tamagotchi-app/assets/160724260/ef5ec216-071e-4816-989a-f8ad6f7b69e5)
+This is the front welcome image
 
 Reference/ bibliography:
 what to do if the buttons on android studio don't work? - Search (bing.com)
