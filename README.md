@@ -28,3 +28,4 @@ Bing Videos
 The IIE.2024.Leadership in education [Module Manual].The Independent institution of education unpublished
 
 https://youtu.be/OwGD8VOT-0g?si=erWghBEg4wz8Mul0 (My YouTube video)
+https://github.com/Thalente1/Tamagotchi-app
